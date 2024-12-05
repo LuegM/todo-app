@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: todo-app-deployment
-  namespace: todo-app
+  namespace: luegm-stud-dev
   labels:
     app: todo-app
 spec:
